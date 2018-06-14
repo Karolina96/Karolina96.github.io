@@ -1,8 +1,6 @@
 # Karolina96.github.io
 
-
-
-### Przychodnia Katowicka dla Ciebie
+# Przychodnia Katowicka dla Ciebie
 
 ![LOGO.png](https://raw.githubusercontent.com/4zlote/Przychodnia-Katowicka-dla-Ciebie/master/LOGO.png)
 
